@@ -1,9 +1,10 @@
-# Stanford CS248 Assignment 1: A Simple SVG Rasterizer
+# Stanford CS248: A Simple SVG Rasterizer
 
 ![Teaser](misc/teaser.png)
 
-## Due date
-The assignment is due Jan 23th at 11:59:59 PM.
+## This assignment is deprecated
+
+This assignment was a programming assignment for Stanford CS248: Computer Graphics. Beginning with the [winter 2026 instantiation of the course](https://gfxcourses.stanford.edu/cs248a/winter26), the course moved on to a new set of assignments, but we are leaving this assignment online for the general public to try.  Happy programming! 
 
 ## Overview
 
