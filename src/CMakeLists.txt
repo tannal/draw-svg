@@ -80,7 +80,7 @@ if (APPLE) # Frameworks required on osx
     ${IOKIT_LIBRARIES}
     ${COREVIDEO_LIBRARIES}
   )
-else(UNIX)  #LINUX
+elseif(UNIX)  #LINUX
 target_link_libraries( drawsvg debug drawsvg_ref-debug optimized drawsvg_ref
     ${CS248_LIBRARIES}
     ${GLEW_LIBRARIES}
